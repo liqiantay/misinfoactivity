@@ -1,4 +1,3 @@
-
 <head>
 <script>
   {% include javascript.js %}
