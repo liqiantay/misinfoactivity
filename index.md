@@ -1,6 +1,5 @@
 
 <head>
-</head>
 <script>
   {% include javascript.js %}
   </script>
