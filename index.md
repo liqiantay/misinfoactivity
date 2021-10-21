@@ -1,6 +1,8 @@
-## You Are Fake News
 
+<head>
+</head>
 <script>
   {% include javascript.js %}
   </script>
+  </head>
 {% include index.html %}
