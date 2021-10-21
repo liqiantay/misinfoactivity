@@ -1,5 +1,4 @@
-theme: tactile
-title: Misinfomation Activity
+remote_theme: pages-themes/hacker@v0.2.0title: Misinfomation Activity
 description: Misinformation proliferates online and fact-checkers can struggle to keep up. One promising alternative to fact-checks takes a more proactive approach...  
 plugins:
 - jekyll-remote-theme
