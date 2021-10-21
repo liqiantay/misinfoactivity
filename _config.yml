@@ -1,5 +1,5 @@
 remote_theme: pages-themes/midnight@v0.2.0
 title: Misinfomation Activity
-description: Misinformation proliferates online and fact-checkers can struggle to keep up. One promising alternative to fact-checks takes a more proactive approach, pre-emptively inoculating individuals against the risk of misinformation by having them take on the role of misinformants themselves.  
+description: Misinformation proliferates online and fact-checkers can struggle to keep up. One promising alternative to fact-checks takes a more proactive approach...  
 plugins:
 - jekyll-remote-theme
