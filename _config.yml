@@ -1,4 +1,4 @@
-remote_theme: pages-themes/midnight@v0.2.0
+theme: tactile
 title: Misinfomation Activity
 description: Misinformation proliferates online and fact-checkers can struggle to keep up. One promising alternative to fact-checks takes a more proactive approach...  
 plugins:
