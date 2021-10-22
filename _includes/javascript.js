@@ -29,6 +29,6 @@ function newChar() {
 }
 function newTechnique() {
 	var randomNumber = Math.floor(Math.random() * 11);
-	document.getElementById('techniqueDisplay').innerHTML = chars[randomNumber];
+	document.getElementById('techniqueDisplay').innerHTML = Technique[randomNumber];
 
 }
