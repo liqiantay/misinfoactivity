@@ -8,8 +8,27 @@ var chars = [
 'You are Christopher Monckton. Christopher Walter Monckton, the third Viscount Monckton of Brenchely, is a former British politician affiliated with the UK Independence Party. He holds a degree in classics and a diploma in journalism. Monckton claims that “global warming will not affect us for the next 2,000 years, and if it does, it won’t have been caused by us.” He once led a Tea Party crowd in a call-and-response that “Global warming is? BULLSH**T.”'
 ]
 
+var Technique = [
+'Use ad Hominem. Attack a person/group instead of addressing their arguments.',
+'Use ambiguity. Use ambiguous language in order to lead to a misleading conclusion.',
+'Use anecdote. Use personal experience or isolated examples instead of sound arguments or compelling evidence.',
+'Use cherry picking. Carefully select data that appear to confirm one position while ignoring other data that contradicts that position.',
+'Use conspiracy theory. Propose that a secret plan exists to implement a nefarious scheme such as hiding a truth.',
+'Use fake debate. Present science and pseudoscience in an adversarial format to give the false impression of an ongoing scientific debate.',
+'Use fake experts. Presenting an unqualified person or institution as a source of credible information.',
+'Use false analogy. Assume that because two things are alike in some ways, they are alike in some other respect.',
+'Use false choice. Present two options as the only possibilities, when other possibilities exist.',
+'Use misrepresentation. Misrepresent a situation or an opponent’s position in such a way as to distort understanding.',
+'Use nefarious intent. Assume that the motivations behind any presumed conspiracy are nefarious.',
+]
+
 function newChar() {
 	var randomNumber = Math.floor(Math.random() * 7);
 	document.getElementById('CharDisplay').innerHTML = chars[randomNumber];
+
+}
+function newTechnique() {
+	var randomNumber = Math.floor(Math.random() * 11);
+	document.getElementById('techniqueDisplay').innerHTML = chars[randomNumber];
 
 }
