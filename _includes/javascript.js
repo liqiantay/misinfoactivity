@@ -9,7 +9,7 @@ var chars = [
 ]
 
 var TechniqueA = [
-'Use "ad Hominem". Attack a person/group instead of addressing their arguments.',
+'Use "ad hominem". Attack a person/group instead of addressing their arguments.',
 'Use "ambiguity". Use ambiguous language in order to lead to a misleading conclusion.',
 'Use "anecdote". Use personal experience or isolated examples instead of sound arguments or compelling evidence.',
 'Use "slippery slope". Suggest that taking a minor action will inevitably lead to major consequences.',
