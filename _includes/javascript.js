@@ -35,18 +35,18 @@ function newChar() {
 
 function newTechniqueA() {
 	var randomNumber = Math.floor(Math.random() * 4);
-	document.getElementById('techniqueDisplay').innerHTML = TechniqueA[randomNumber];
+	document.getElementById('techniqueDisplayA').innerHTML = TechniqueA[randomNumber];
 
 }
 
 function newTechniqueB() {
 	var randomNumber = Math.floor(Math.random() * 4);
-	document.getElementById('techniqueDisplay').innerHTML = TechniqueB[randomNumber];
+	document.getElementById('techniqueDisplayB').innerHTML = TechniqueB[randomNumber];
 
 }
 
 function newTechniqueC() {
 	var randomNumber = Math.floor(Math.random() * 4);
-	document.getElementById('techniqueDisplay').innerHTML = TechniqueC[randomNumber];
+	document.getElementById('techniqueDisplayC').innerHTML = TechniqueC[randomNumber];
 
 }
