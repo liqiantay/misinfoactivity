@@ -1,6 +1,7 @@
 <head>
+  {% include index.html %}
 <script>
-  {% include javascript.js %} {% include index.html %}
+  {% include javascript.js %} 
 </script>
 </head>
 
